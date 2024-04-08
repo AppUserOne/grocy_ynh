@@ -40,7 +40,7 @@ Setting('MEAL_PLAN_FIRST_DAY_OF_WEEK', '');
 // this here is used to format all money values,
 // so doesn't really matter, but needs to be the
 // ISO 4217 code of the currency ("USD", "EUR", "GBP", etc.)
-Setting('CURRENCY', 'EUR');
+Setting('CURRENCY', 'USD');
 
 // Your preferred unit for energy
 // E.g. "kcal" or "kJ" or something else (doesn't really matter, it's only used to display energy values)
